@@ -1,0 +1,1 @@
+import{_ as o,c as s,d as t,F as c,o as r}from"./entry.66d47f2c.js";const a={},n={class:"prose"};function _(e,d){return r(),s("div",n,[t(" Some *home* layout "),c(e.$slots,"default")])}const f=o(a,[["render",_]]);export{f as default};
